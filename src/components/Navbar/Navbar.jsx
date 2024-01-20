@@ -7,7 +7,7 @@ import './Navbar.css'
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
-    <nav>
+    <nav className="navlinks">
     <Link to="/" className="title">
       Home
     </Link>
