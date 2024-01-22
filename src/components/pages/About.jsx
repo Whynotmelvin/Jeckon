@@ -2,129 +2,23 @@ import React from "react";
 
 const About = () => {
   return (
-    <div>
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste ab ad ut
-      officia molestiae, incidunt architecto odit vel nulla assumenda eligendi
-      est eum beatae? Ex aliquam voluptatem necessitatibus hic accusantium
-      obcaecati libero illum reprehenderit, quo dolorum dicta sit adipisci ipsa
-      id corporis quos repellat dolores quae pariatur magni ullam, harum rem.
-      Nemo exercitationem et quis laborum ex praesentium, asperiores
-      reprehenderit, earum consequuntur saepe, labore dolorem? Quam
-      necessitatibus maiores optio. Dolores esse incidunt consequatur alias,
-      totam natus vitae suscipit delectus libero quisquam eveniet ex, voluptatem
-      ratione labore exercitationem ullam hic commodi rerum minima enim
-      consequuntur distinctio fugiat? Molestias a eos alias!
-      <br />
+    <div id="about">
+      <h2 className="text-2xl text-center text-gray-400 font-semibold">
+        Trusted by Schools Accross Lagos, Abuja, Nasarrawa and Porthacourt
+      </h2>
+      <div className="text-center flex flex-col items-center">
+      <h1 className="text-3xl font-bold">
+        All in one Exercise Book Solution
+      </h1>
+      <p className="max-w-[528px]">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum architecto
+        nulla nesciunt, voluptatibus minus perspiciatis illum aperiam numquam
+        pariatur voluptatum similique? Quos inventore libero minus laudantium
+        vero quidem esse nostrum.
+      </p>
+      </div>
+     
     </div>
-    
   );
 };
 
