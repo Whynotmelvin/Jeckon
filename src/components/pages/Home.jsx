@@ -1,5 +1,7 @@
 import React from "react";
 import Homeimage from "../../assests/images/Homeimage.svg";
+import Bannerimage from "../../assests/images/Banner-img1.jpg";
+import Bannerimage2 from "../../assests/images/Banner-img2.jpg";
 
 const Home = () => {
   return (
@@ -13,13 +15,27 @@ const Home = () => {
         </div>
       </div>
       <div className="text-center flex flex-col items-center">
-        <h1 className="text-3xl font-bold my-16">Who is Jeckon Publishers</h1>
-        <p className="max-w-[528px]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum
-          architecto nulla nesciunt, voluptatibus minus perspiciatis illum
-          aperiam numquam pariatur voluptatum similique? Quos inventore libero
-          minus laudantium vero quidem esse nostrum.
-        </p>
+        <div>
+          <h1 className="text-3xl font-bold my-12 ">
+            Who is Jeckon Publishers
+          </h1>
+          <p className="max-w-[528px] ">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum
+            architecto nulla nesciunt, voluptatibus minus perspiciatis illum
+            aperiam numquam pariatur voluptatum similique?.
+          </p>
+        </div>
+        <div className="flex flex-col">
+          <div className="flex flex-row  justify-between">
+            <div>
+              <img src={Bannerimage} width={440} height={224} alt=""  className="rounded-lg"/>
+            </div>
+            <div>
+              <img src={Bannerimage2} width={440} height={224} alt="" className="rounded-lg"/>
+            </div>
+          </div>
+        </div>
+
         <div className="flex justify-around">
           <div class="relative flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl mx-5 max-w-[350px] max-h-[350px]">
             <div class="p-6">
@@ -31,7 +47,6 @@ const Home = () => {
                 interactive exercises, fostering joyful learning experiences.
               </p>
             </div>
-          
           </div>
           <div class="relative flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl max-w-[350px]">
             <div class="p-6">
@@ -44,7 +59,6 @@ const Home = () => {
                 curricula
               </p>
             </div>
-        
           </div>
           <div class="relative flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl  max-w-[350px]">
             <div class="p-6">
@@ -57,7 +71,6 @@ const Home = () => {
                 children's learning journeys.
               </p>
             </div>
-           
           </div>
         </div>
       </div>
