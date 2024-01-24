@@ -2,12 +2,12 @@ import React from "react";
 
 const About = () => {
   return (
-    <div id="about">
-      <h2 className="text-2xl text-center text-gray-400 font-semibold">
+    <div id="about" className="">
+      <h2 className="text-2xl text-center text-gray-400 font-semibold my-20">
         Trusted by Schools Accross Lagos, Abuja, Nasarrawa and Porthacourt
       </h2>
       <div className="text-center flex flex-col items-center">
-      <h1 className="text-3xl font-bold">
+      <h1 className="text-3xl font-bold my-8">
         All in one Exercise Book Solution
       </h1>
       <p className="max-w-[528px]">
