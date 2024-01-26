@@ -6,6 +6,8 @@ import Career from './components/pages/Careers';
 import Contact from './components/pages/Contact';
 import Home from './components/pages/Home';
 import Banner from './components/pages/Banner'
+import Footer from './components/pages/Footer';
+import Testimonies from './components/pages/Testimonies';
 
 function App() {
   return (
@@ -13,6 +15,9 @@ function App() {
       <Navbar/>
       <Home/>
       <About/>
+      <Career/>
+      <Testimonies/>
+      <Footer/>
     </div>
   );
 }
