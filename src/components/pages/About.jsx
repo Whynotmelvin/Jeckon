@@ -21,7 +21,7 @@ const About = () => {
         </p>
       </div>
 
-      <div className="flex justify-around">
+      <div className="grid grid-cols-1 md:grid-cols-3 justify-items-center">
         <div class=" flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl mx-5 max-w-[350px] max-h-[350px]">
           <div class="p-6 ">
             <img src={Cardimage1} alt="" className="" />

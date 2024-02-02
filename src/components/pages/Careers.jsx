@@ -23,18 +23,18 @@ const Careers = () => {
           the educational experience at Your School.
         </p>
       </div>
-      <div className="my-20 grid grid-cols-2">
-        <div>
+      <div className="my-20 grid grid-cols-1 md:grid-cols-2">
+        <div className="flex">
           <img
             src={Banner}
             width={540}
             height={324}
-            className="rounded-lg"
+            className="rounded-lg self-center"
             alt=""
           />
         </div>
         <div className="">
-          <h1 className="text-2xl font-semibold my-8 text-orange-500 ">
+          <h1 className="text-2xl font-semibold my-8 text-orange-500 text-center">
             A Learning experience for future{" "}
             <span className="text-orange-500">Leaders</span>{" "}
           </h1>
@@ -67,20 +67,20 @@ const Careers = () => {
                 <SchoolIcon />
               </ListItemIcon>
               <ListItemText
-               primary="Differentiated Assessment  Levels:"
-               secondary={
-                 <React.Fragment>
-                   <Typography
-                     sx={{ display: "inline" }}
-                     component="span"
-                     variant="body2"
-                     color="text.primary"
-                   ></Typography>
-                   {
-                     "Ensure that our exercise books are meticulously crafted to align with educational assessments and standards. The questions provided are designed to gauge students' understanding and mastery of key concepts, facilitating effective assessment strategies for educators and providing valuable insights into students' academic progress. "
-                   }
-                 </React.Fragment>
-               }
+                primary="Differentiated Assessment  Levels:"
+                secondary={
+                  <React.Fragment>
+                    <Typography
+                      sx={{ display: "inline" }}
+                      component="span"
+                      variant="body2"
+                      color="text.primary"
+                    ></Typography>
+                    {
+                      "Ensure that our exercise books are meticulously crafted to align with educational assessments and standards. The questions provided are designed to gauge students' understanding and mastery of key concepts, facilitating effective assessment strategies for educators and providing valuable insights into students' academic progress. "
+                    }
+                  </React.Fragment>
+                }
               />
             </ListItemButton>
           </ListItem>
