@@ -22,7 +22,7 @@ const About = () => {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 justify-items-center">
-        <div class=" flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl mx-5 max-w-[350px] max-h-[350px]">
+        <div class=" flex flex-col mt-6 text-gray-700 bg-slate-100 hover:bg-slate-300 hover:scale-110 shadow-md bg-clip-border rounded-xl mx-5 max-w-[350px] max-h-[350px]">
           <div class="p-6 ">
             <img src={Cardimage1} alt="" className="" />
             <h5 class="mb-2 text-xl font-semibold leading-snug mt-25">
@@ -34,7 +34,7 @@ const About = () => {
             </p>
           </div>
         </div>
-        <div class=" flex flex-col mt-6 text-gray-700 bg-white shadow-lg bg-clip-border rounded-xl max-w-[350px]">
+        <div class="flex flex-col mt-6 text-gray-700 bg-slate-100 hover:bg-slate-300 hover:scale-110  shadow-md bg-clip-border rounded-xl mx-5 max-w-[350px] max-h-[350px]">
           <div class="p-6">
             <img src={Cardimage2} alt="" />
             <h5 class="mb-2 text-xl font-semibold leading-snug">
@@ -47,7 +47,7 @@ const About = () => {
             </p>
           </div>
         </div>
-        <div class=" flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl  max-w-[350px]">
+        <div class="flex flex-col mt-6 text-gray-700 bg-slate-100 hover:bg-slate-300 hover:scale-110 shadow-md bg-clip-border rounded-xl mx-5 max-w-[350px] max-h-[350px]">
           <div class="p-6">
             <img src={Cardimage3} alt="" />
             <h5 class=" mb-2 text-xl font-semibold leading-snug">

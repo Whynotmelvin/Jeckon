@@ -22,10 +22,10 @@ const Home = () => {
           <Link>
             <button class="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded-full my-4 sm:my-3">
               Contact us 
-            </button>
+            </button> 
           </Link>
         </div>
-        <div className="flex justify-items-end items-center my-20 md:my-14 ">
+        <div className="flex justify-items-end items-center my-20 md:my-14">
           <img src={Homeimage} width={440} height={224} alt="home" />
         </div>
       </div>
