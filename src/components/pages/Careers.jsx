@@ -38,7 +38,7 @@ const Careers = () => {
             A Learning experience for future{" "}
             <span className="text-orange-500">Leaders</span>{" "}
           </h1>
-          <ListItem disablePadding>
+          <ListItem disablePadding className="">
             <ListItemButton>
               <ListItemIcon>
                 <SchoolIcon />

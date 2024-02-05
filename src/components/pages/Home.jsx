@@ -51,7 +51,7 @@ const Home = () => {
             className="rounded-lg"
           />
         </div>
-        <div className="relative ">
+        <div className=" ">
           <img
             src={Bannerimage2}
             width={440}
