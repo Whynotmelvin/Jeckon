@@ -24,7 +24,7 @@ const Careers = () => {
         </p>
       </div>
       <div className="my-20 grid grid-cols-1 md:grid-cols-2">
-        <div className="flex">
+        <div className="flex mx-3 md:mx-0">
           <img
             src={Banner}
             width={540}
@@ -48,10 +48,10 @@ const Careers = () => {
                 secondary={
                   <React.Fragment>
                     <Typography
-                      sx={{ display: "inline" }}
-                      component="span"
-                      variant="body2"
-                      color="text.primary"
+                      // sx={{ display: "inline" }}
+                      // component="span"
+                      // variant="body2"
+                      // color="text.primary"
                     ></Typography>
                     {
                       "Gain a competitive edge with our insights into the latest educational trends. Stay ahead of the curve with regular updates on the latest trends in educational materials. Be the first to explore and incorporate our new releases, ensuring your school remains at the forefront of innovative teaching and learning resources. "

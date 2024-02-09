@@ -10,9 +10,10 @@ const Home = () => {
     <div className="">
       <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center  bg-primary">
         <div className="text-center  md:my-14">
-          <h1 className="text-5xl leading-relaxed font-bold text-teal-700">
-            The Book of Higher Learning...
-            <span className="text-orange-500">JEKON</span>
+          <h1 className="text-5xl leading-relaxed font-bold text-teal-700 max-w-[808px]">
+            The Book of Higher Learning
+            <br />
+            <span className="text-orange-500">... JEKON</span>
           </h1>
           <h6 className="max-w-[528px] mx-auto text-bold leading-relaxed my-10">
             Enriching Learning Journeys: Explore our diverse collection of
