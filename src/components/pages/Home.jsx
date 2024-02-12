@@ -7,7 +7,7 @@ import Button from "@mui/material/Button";
 
 const Home = () => {
   return (
-    <div className="">
+    <div id="Home">
       <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center  bg-primary">
         <div className="text-center  md:my-14">
           <h1 className="text-5xl leading-relaxed font-bold text-teal-700 max-w-[808px]">

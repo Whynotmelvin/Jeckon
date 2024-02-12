@@ -11,7 +11,7 @@ import Typography from "@mui/material/Typography";
 
 const Careers = () => {
   return (
-    <div>
+    <div id="Service">
       <div className="text-center flex flex-col items-center my-20">
         <h1 className="text-3xl font-bold my-8  text-teal-700 ">
           What we <span className="text-orange-500">OFFER</span>{" "}

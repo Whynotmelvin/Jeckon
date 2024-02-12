@@ -43,7 +43,7 @@ const Footer = () => {
   };
 
   return (
-    <div className="bg-gray-700 py-16 text-white">
+    <div className="bg-gray-700 py-16 text-white"id="Contact">
       <div className="grid grid-cols-1 md:grid-cols-2 my-3 justify-items-center md:mx-4 mx-3 my">
         <div>
           <img

@@ -5,7 +5,7 @@ import Cardimage3 from "../../assests/images/About-icon3.svg";
 
 const About = () => {
   return (
-    <div id="about" className="">
+    <div id="About" className="">
       <h2 className="text-2xl text-center text-gray-400 font-semibold my-20">
         Trusted by Schools Accross Lagos, Abuja, Nasarrawa and Porthacourt
       </h2>
