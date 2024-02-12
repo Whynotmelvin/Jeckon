@@ -3,15 +3,16 @@ import { Button } from "@mui/material";
 import "./Navbar.css";
 import { Link, NavLink } from "react-router-dom";
 import "./Navbar.css";
+import Logo from '../../assests/images/graduation-hat.png'
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
     <nav className="navlinks">
-      <button class="hover:bg-teal-700 font-bold py-2 px-4 rounded text-black">
+      <button class="hover:bg-teal-700 font-bold py-2 px-4 rounded text-black ml-4">
         <a href="#Home" className="text-bold text-3xl">
           {" "}
-          Home
+          <img src={Logo} width={50} height={50} alt="" />
         </a>
       </button>
       <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>

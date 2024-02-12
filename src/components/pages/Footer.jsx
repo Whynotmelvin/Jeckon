@@ -117,15 +117,16 @@ const Footer = () => {
       </div>
       <div className="mt-48">
         <div className="flex flex-row gap-5 justify-center text-white my-6">
-          <Link className="no-underline">
-            <h1>Careers</h1>
-          </Link>
-          <Link>
-            <h1>Privacy Policy</h1>
-          </Link>
-          <Link>
-            <h1>Terms and Condition</h1>
-          </Link>
+          <div>
+          <a href="#About">About</a>
+          </div>
+         <div>
+          <a href="#Service">Service</a>
+         </div>
+        
+          <div>
+            <a href="#Contact">Contact</a>
+          </div>
         </div>
         <div className="flex justify-center">
           <h1>@2023 Jeckon Publishers</h1>
