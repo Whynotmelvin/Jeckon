@@ -23,7 +23,7 @@ const Footer = () => {
       template_params: {
         from_name: name,
         from_email: email,
-        to_name: "Jeckon",
+        to_name: "Jekon",
         message: message,
       },
     };
@@ -129,7 +129,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="flex justify-center">
-          <h1>@2023 Jeckon Publishers</h1>
+          <h1>@2023 Jekon Publishers</h1>
         </div>
       </div>
     </div>

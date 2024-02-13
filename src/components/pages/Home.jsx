@@ -33,10 +33,10 @@ const Home = () => {
 
       <div className="text-center flex flex-col items-center">
         <h1 className="text-3xl font-bold my-12 text-teal-700 ">
-          Who is <span className="text-orange-500">Jeckon Publishers </span>
+          Who is <span className="text-orange-500">Jekon Publishers </span>
         </h1>
         <p className="max-w-[528px] ">
-          Jeckon Publishers excels in crafting vibrant and educational exercise
+          Jekon Publishers excels in crafting vibrant and educational exercise
           books tailored for nursery to primary school. Our engaging materials
           foster curiosity, making learning a joyful journey for young minds.
         </p>
